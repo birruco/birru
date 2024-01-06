@@ -1,0 +1,102 @@
+title: 'Birru - Terapi Wicara dan Tumbuh Kembang Anak'
+hero: 
+  title: 'Membangkitkan Keajaiban Anak'
+  description: 'Kami membantu ayah bunda memahami dan mengatasi gangguan bahasa bicara untuk membangkitkan keajaiban dalam diri anak mereka.'
+  cta:
+    partnership: 'Kerjasama dengan Kami'
+    reservation: 'Bangkitkan Sekarang!'
+service:
+  headline: 'Layanan'
+  title: 'Masa Emas Anak Tidak Dapat Diulang'
+  description: 'Bersiaplah sejak dini, bangkitkan kejeniusan dan potensi tersembunyi si kecil yang ayah bunda tidak sadari bersama kami.'
+  items: 
+    - title: 'Terapi Wicara'
+      description: 'Prosedur terapi yang digunakan untuk mengatasi masalah bahasa bicara pada anak-anak. secara spesifik digunakan untuk meningkatkan kemampuan bahasa ekspresif, bahasa reseptif, artikulasi, kelancaran bicara, kemampuan bermain, kemampuan membaca, kemampuan belajar, serta kemampuan makan dan menelan. Dengan metode terapi yang disesuaikan dengan setiap kondisi anak, setelah melewati proses assessment.'
+    - title: 'Okupasi Terapi'
+      description: 'Pelayanan pada anak yang bertujuan untuk menangani masalah keterlambatan dan gangguan perkembangan yaitu dengan memberikan rangkaian jenis terapi kepada anak untuk mengoptimalisasi proses tumbuh kembangnya baik dari segi motorik, sensorik, kognitif, perilaku, dan komunikasi. Sehingga anak mampu secara optimal dalam melakukan perannya pada aktivitas sehari-hari (makan, mandi, berpakaian, dsb), bermain, belajar dan bersosialisasi dengan lingkungannya sesuai usia perkembangannya.'
+    - title: 'Fisioterapi'
+      description: 'Perawatan yang dilakukan untuk membantu mengembalikan fungsi dan gerakan bagian tubuh seseorang akibat luka, sakit, atau hilangnya kemampuan tubuh dalam bergerak. Perawatan ini meliputi latihan, terapi manual, edukasi, dan saran. Selain itu, fisioterapi juga dapat dilakukan untuk mengurangi risiko terluka atau sakit di masa depan dan seorang terapis akan memandu perawatan ini serta membantu pasien dalam mengatasi rasa sakit.'
+  cta: 'Kasus Kami'
+program: 
+  headline: 'Program'
+  title: 'Pendekatan Menyeluruh Sesuai Kondisi Anak'
+  description: 'Kami membuat rencana terapi sesuai dengan kondisi setiap anak dan memberikan panduan praktis kepada ayah bunda untuk mendukung si kecil di rumah.'
+  steps:
+    - title: 'Assessment'
+      step: 
+        - title: '1. Mendeteksi dini melalui pertanyaan.'
+        - title: '2. Wawancara dengan ayah bunda.'
+        - title: '3. Mengobservasi anak.'
+        - title: '4. Test langsung dengan anak.'
+        - title: '5. Edukasi target terapi dengan ayah bunda.'
+    - title: 'Terapi'
+      step:
+        - title: '1. Proses terapi.'
+        - title: '2. Konsultasi hasil terapi.'
+        - title: '3. Penyampaian home program.'
+        - title: '4. Evaluasi target terapi.'
+  gallery:
+    - img: 'https://i.pravatar.cc/500?img=7'
+    - img: 'https://i.pravatar.cc/500?img=7'
+    - img: 'https://i.pravatar.cc/500?img=7'
+talent:
+  headline: 'Bakat'
+  title: 'Kenali Kepribadian dan Bakat Tersembunyi Anak'
+  description: 'Dengan metode biopsikologi (sidik jari), kami dapat mengenali karakteristik setiap anak dan mendampingi ayah bunda membangunkan kejeniusan serta potensi tersembunyi si kecil yang disesuaikan dengan bakat alaminya.'
+  cta: 'Kenali Sekarang!'
+growth:
+  headline: 'Visi'
+  title: 'Membangun Rumah Di Mana Anak Dapat Menemukan Arti Keluarga'
+  description: 'Dengan visi tersebut dan mengembalikan terapis ke daerah, kami ingin semua anak di Indonesia dapat tumbuh berkembang dengan optimal serta mampu berbahasa bicara dengan baik.'
+  img: 'https://i.pravatar.cc/500?img=7'
+  data: 
+    clinic:
+      number: '3'
+      description: 'Klinik'
+    therapist: 
+      number: '12'
+      description: 'Terapis'
+    patient: 
+      number: '500+'
+      description: 'Anak Terbantu'
+testimonial:
+  headline: 'Testimoni'
+  title: 'Pelanggan yang Senang dengan Layanan Kami'
+  description: 'Para profesional terampil kami memberikan layanan terapi yang dapat dipercaya dengan proses yang transparan. Anda dapat mengamati terapi secara langsung, menerima laporan kemajuan, dan yakin bahwa layanan kami memenuhi kebutuhan anak Anda secara komprehensif.'
+  youtube: 'https://www.youtube.com/embed/K3qMdcRGAn8'
+  items: 
+    - author: 'Orang tua pasien'
+      comment: 'Alhamdulillah ... sering inget sama bu ari.. suka mau ngajakin tempat bu ari. Sudah bisa cerewet sekali bu, MasyaAllah sekarang sudah bisa cerita.. terimakasih banyak ya bu bimbingannya selama ini.'
+    - author: 'Orang tua pasien'
+      comment: 'Alhamdulillah bunda, … sudah mulai mengikuti dan ada perubahan yang jauh. Mohon selalu bimbingan dan bantuannya ya bunda.'
+    - author: 'Orang tua pasien'
+      comment: 'Alhamdulillah … sudah bercerita terus, ditanya sudah menjawab, kosakata dan artikulasi sudah cukup membaik setiap harinya. Terimakasih atas bantuan dan kerjasamanya selama ini. Semoga sehat dan sukses selalu. Dan doakan juga … semakin harinya semakin tambah pintar dan sholeh Aamiin.'
+stimulus:
+  headline: 'Stimulus'
+  title: 'Waktunya Menstimulasi Anak'
+  description: 'Dengan menstimulasi anak, ayah bunda dapat membantu si kecil tumbuh secara sosial, emosional, fisik, dan kognitif.'
+  cta: 'Pelajari Sekarang!'
+faq:
+  headline: 'FAQ'
+  title: 'Frequently Asked Questions'
+  description: 'Pertanyaan yang sering ditanyakan ayah bunda seputar Rumah Terapi Al-Birru.'
+  items: 
+    - question: 'Bagaimana cara terapi di Al-Birru?'
+      answer: 'Pertama ayah bunda mengisi form daftar dulu, setelah itu konfirmasi ke admin, bahwa sudah mengisi form daftar, kemudian menentukan jadwal assessment atau pemeriksaan awal di hari dan jam yang telah disepakati oleh admin dan ayah bunda, selanjutnya menentukan jadwal terapi berdasarkan waktu yang telah disepakati bersama.'
+    - question: 'Terapinya berapa kali seminggu?'
+      answer: 'Jumlah pertemuan terapi disesuaikan kondisi anak, anak dengan kondisi ringan jumlah pertemuan minimal adalah seminggu 2 kali, sedangkan untuk anak dengan kondisi berat sekitar 4-5 kali seminggu.'
+    - question: 'Bagaimana jadwal terapi di Al-Birru?'
+      answer: 'Hari terapi disesuaikan dengan kesibukan ayah bunda, fleksibel dan bisa dirubah jadwal H-1'
+    - question: 'Berapa lama anak harus terapi sampai akhirnya ada progres sesuai yang diharapkan?'
+      answer: 'Berbeda beda tergantung diagnosis yang ada pada anak, untuk anak dengan kondisi terlambat tanpa gangguan tertentu, terapi bisa berlangsung lebih cepat, kurang lebih 3 bulan terapi. untuk anak dengan kondisi berat bisa berlangsung cukup lama. semua relatif tergantung banyak kondisi.'
+    - question: 'Berapa biaya terapi di Al-Birru?'
+      answer: 'Berbeda beda tergantung dimana letak al birru cabang, untuk info lebih lanjut silahkan untuk menghubungi admin melalui whatsapp.'
+    - question: 'Metode apa yang diterapkan di Al-Birru?'
+      answer: 'Banyak metode yang diterapkan di al birru, beberapa diantaranya adalah, verbal behavior, play therapy, modelling, drill, sensori integrasi, stimulasi multi modal, dan banyak lagi, semua metode disesuaikan dengan kondisi dan kepribadian anak.'
+partnership:
+  headline: 'Kerjasama'
+  title: 'Mari Membentuk Masa Depan Bersama!'
+  description: 'Bergabunglah bersama kami dalam menciptakan dampak jangka panjang bagi generasi mendatang melalui peluang kemitraan.'
+  cta:
+    download: 'Download Proposal'
+    join: 'Bergabung Sekarang!'
