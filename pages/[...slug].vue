@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <el-main>
     <ContentDoc />
-  </main>
+  </el-main>
 </template>

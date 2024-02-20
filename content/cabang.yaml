@@ -1,0 +1,24 @@
+title: 'Membangun Rumah Di Mana Anak Dapat Menemukan Arti Keluarga'
+description: 'Dengan mengirim terapis ke daerah yang membutuhkan, kami bertujuan untuk mengoptimalkan tumbuh kembang semua anak di Indonesia sehingga mereka mampu berbahasa bicara dengan baik. Untuk mendapatkan pelayanan tersebut, Brunda dapat mendaftar secara online melalui nomor WhatsApp admin di cabang Birru Care terdekat.'
+branches: 
+  - title: 'Bandar Lampung'
+    address: 'Perumahan Griya Anugrah Permai, Jl. Padat Karya Blok H7, Fajar Baru, Kec. Rajabasa, Kota Bandar Lampung, Lampung 35365'
+    cta:
+      - title: 'Lokasi'
+        url: 'https://maps.app.goo.gl/J7srAJs7fXNDweN99'
+      - title: 'Whatsapp'
+        url: 'https://wa.me/6282373832032'
+  - title: 'Jayapura'
+    address: 'Gedung Notaris Putri Paramita, Gg. Melati Lantai 2, Wai Mhorock, Kec. Abepura, Kota Jayapura, Papua 99225'
+    cta:
+      - title: 'Lokasi'
+        url: 'https://maps.app.goo.gl/SspjBaFWgv4JVzfi8'
+      - title: 'Whatsapp'
+        url: 'https://wa.me/6281389309656'
+  - title: 'Banjarbaru'
+    address: 'Jl. Karang Anyar 3 No.14, Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru, Kalimantan Selatan 70714'
+    cta:
+      - title: 'Lokasi'
+        url: 'https://maps.app.goo.gl/mVAquspn5dnXHjdW7'
+      - title: 'Whatsapp'
+        url: 'https://wa.me/6285342881997'
