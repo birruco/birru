@@ -1,8 +1,10 @@
 ---
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Gangguan Makan dan Menelan
 
-Anak kesulitan dalam proses makan, termasuk mengunyah, menelan, menghisap, muntah ketika makan, banyak mengalir air liur, serta memilih-milih makanan dengan tekstur tertentu.
+Kesulitan dalam proses makan, termasuk mengunyah, menelan, menghisap, muntah ketika makan, banyak mengalir air liur, serta memilih-milih makanan dengan tekstur tertentu.

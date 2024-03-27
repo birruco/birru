@@ -1,8 +1,10 @@
 ---
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Speech Delay
 
-Anak mengalami keterlambatan dalam perkembangan bahasa lisan mereka, mempengaruhi kemampuan mereka untuk berbicara seiring dengan perkembangan usia.
+Keterlambatan dalam perkembangan bahasa lisan anak yang mempengaruhi kemampuan mereka untuk berbicara seiring dengan perkembangan usia.

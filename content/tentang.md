@@ -1,7 +1,9 @@
 ---
 description: Birru adalah kombinasi dari kedua peran dokter dan guru, penanganan komunikasi berkurikulum berbasis kesehatan, profesinya disebut Terapis Wicara. Profesi kesehatan yang kuliah di jurusan Terapi Wicara.
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Tentang Kami
@@ -33,3 +35,17 @@ Prinsipnya, ilmu ini harus mudah diakses oleh semua orang tua. Sampai akhirnya, 
 Terapis Birru adalah profesional yang sudah 3-4 tahun berada di bangku kuliah mempelajari bagaimana bahasa diproduksi oleh manusia, bagian otak mana yang memiliki peran dalam pemrosesan bahasa, dan metode penanganannya.
 
 Setiap terapis Birru adalah edukator terbaik yang sudah dipersiapkan sedemikian rupa untuk mendampingi orang tua berkomunikasi dengan anaknya, sehingga anak mereka mampu memahami arti keluarga.
+
+## Nilai Kami
+
+1. **Collaboration**
+Tim klinis kami dan orang tua bekerja sama dengan dukungan teknologi untuk menciptakan pengalaman yang lebih baik yang memperkuat standar perawatan kami.
+
+2. **Integrity**
+Memberikan perawatan berkualitas dimulai dengan membangun hubungan kepercayaan dengan klien melalui kejujuran, transparansi, dan akuntabilitas.
+
+3. **Innovation**
+Inovasi tidak muncul secara ajaib dalam semalam, ini dibangun secara bertahap hari demi hari. Kami mengubah terapi wicara melalui pemecahan masalah yang cermat dari lintas tim kami yang disiplin.
+
+4. **Empowerment**
+Kami menciptakan lingkungan yang inklusif dan mendukung dimana semua orang dapat mencapai potensi tertinggi mereka.

@@ -1,8 +1,10 @@
 ---
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Gangguan Artikulasi
 
-Kesulitan dalam mengucapkan suara, kata, atau suku kata tertentu, yang dapat mempengaruhi pemahaman bahasa.
+Gangguan pada organ artikulator secara struktural seperti bibir sumbing atau tongue-tie.

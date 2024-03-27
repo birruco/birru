@@ -1,7 +1,9 @@
 ---
 description: Kelainan lahir yang melibatkan celah pada bibir dan/atau langit-langit, yang dapat mempengaruhi fungsi bicara dan makan.
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Celah Bibir dan Langit-langit (CLP)

@@ -1,6 +1,8 @@
 ---
-sitemap:
-  lastmod: 12 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Gangguan Sensorik

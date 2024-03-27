@@ -1,7 +1,9 @@
 ---
 description: Kepribadian Insting memiliki kemampuan berkorban bagi kepentingan yang lebih besar melebihi delapan jenis kepribadian yang lain. Kelebihan ini dapat disepadankan dengan kecerdasan berkorban atau disebut AQ (Altruist Quotient).
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Insting

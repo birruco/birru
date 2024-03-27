@@ -1,11 +1,18 @@
 <script setup lang="ts">
   const { data: page } = await useAsyncData('cabang', () => queryContent('/cabang').findOne())
+
+  defineOgImageComponent('NuxtSeo', {
+    title: 'Cabang',
+    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.',
+    siteName: 'birru.co',
+    theme: '#49A6CB',
+  })
 </script>
 
 <template>
   <el-main>
-    <h1>{{ page?.title }}</h1>
-    <div>{{ page?.description }}</div>
+    <h1>{{ page?.hero.title }}</h1>
+    <div>{{ page?.hero.description }}</div>
     
     <ul class="grid grid-cols-3 grid-flow-col gap-4 mt-6">
       <li v-for="branch in page?.branches">
