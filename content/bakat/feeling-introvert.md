@@ -1,7 +1,9 @@
 ---
 description: Kepribadian Feeling introvert memiliki kemampuan emosi yang melebihi delapan jenis kepribadian yang lain. Kelebihan ini dapat disepadankan dengan kecerdasan emosi atau disebut EQ (Emotional Quotient).
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Feeling Introvert

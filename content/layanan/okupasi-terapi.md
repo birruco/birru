@@ -1,19 +1,22 @@
 ---
 description: Terapi anak untuk mengoptimalisasi proses tumbuh kembangnya baik dari segi motorik, sensorik, kognitif, perilaku, dan komunikasi.
-sitemap:
-  lastmod: 20 Feb 2024
+ogImage:
+  component: NuxtSeo
+  title: Okupasi Terapi
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
-# Okupasi Terapi: Apa, Kenapa, Bagaimana, Kapan, Dimana?
+# Okupasi Terapi - Apa, Kenapa, Bagaimana, Kapan, Dimana?
 
 Penulis: [Ari Damayanti S.Tr.Kes (Sarjana Sains Terapan Kesehatan Terapi Wicara)](https://www.linkedin.com/in/aridamayanti/).
 Ast. Penulis: [Faizal Andyka](https://www.linkedin.com/in/faizalandyka/).
 
-## Apa Itu Okupasi Terapi?
+## Apa itu okupasi terapi?
 
 Okupasi terapi adalah tindakan terapi untuk meningkatkan kemampuan anak atau dewasa dalam melakukan tugas sehari-hari, termasuk belajar bagaimana berdiri, duduk, bergerak, menggunakan berbagai alat dalam aktivitas sehari-hari, regulasi diri, bermain, kemampuan integrasi sensorik, serta kemampuan perawatan diri.
 
-## Apa Tujuan Dari Okupasi Terapi?
+## Apa tujuan dari okupasi terapi?
 
 Tujuan dilakukannya prosedur okupasi terapi adalah untuk:
 
@@ -27,7 +30,7 @@ Tujuan dilakukannya prosedur okupasi terapi adalah untuk:
 8. Meningkatkan kemampuan regulasi diri dan keterampilan mengatasi emosi (coping skills).
 9. Dll.
 
-## Kenapa Okupasi Terapi Dapat Mendukung Program Terapi Wicara?
+## Kenapa okupasi terapi dapat mendukung program terapi wicara?
 
 Seringkali ketika anak sedang menerima layanan terapi wicara, mereka disarankan untuk menjalani okupasi terapi juga. Karena setiap anak harus memiliki beberapa kemampuan dasar yang secara umum akan membantu anak dalam meningkatkan kemampuan berbicara dan bahasa, yaitu kemampuan sensori integrasi, regulasi diri, motorik, dan persepsi visual. Berikut ini adalah definisi dari kemampuan-kemampuan tersebut:
 
@@ -36,11 +39,11 @@ Seringkali ketika anak sedang menerima layanan terapi wicara, mereka disarankan 
 3. **Motorik**: kemampuan tubuh dalam melakukan beberapa aktivitas, yang didukung oleh kekuatan tulang dan otot.
 4. **Persepsi Visual**: kemampuan anak untuk mengolah informasi dalam bentuk gambar melalui mata. Kemampuan Persepsi Visual dibutuhkan karena mata mengirimkan banyak informasi ke otak setiap detiknya. Maka mata harus mengirimkan informasi dengan cara yang sesuai, agar otak dapat memprosesnya dengan cara yang tepat. Sehingga anak mampu membentuk pemikiran, membuat keputusan, dan menciptakan tindakan.
 
-## Berapa Lama Anak Harus Menjalani Okupasi Terapi?
+## Berapa lama anak harus menjalani okupasi terapi?
 
 Durasi setiap sesi okupasi terapi dan frekuensinya bervariasi berdasarkan kebutuhan anak. Seperti halnya anak yang sekolah, anak tidak akan belajar semua yang mereka butuhkan dalam satu hari. Mereka membutuhkan latihan dan dorongan yang berkelanjutan sampai anak bisa dianggap lulus dalam sebuah kemampuan. Okupasi terapis akan menyampaikan pencapian anak dan perkiraan waktu yang dibutuhkan untuk mencapai tujuan akhir anak.
 
-## Diagnosis Apa Saja Yang Biasanya Ditangani Oleh Okupasi Terapis?
+## Diagnosis apa saja yang biasanya ditangani oleh okupasi terapis?
 
 Berikut ini adalah kondisi anak-anak yang membutuhkan pelayanan okupasi terapi:
 
@@ -51,7 +54,7 @@ Berikut ini adalah kondisi anak-anak yang membutuhkan pelayanan okupasi terapi:
 5. [**ADHD**](https://birru.co/kasus/adhd/): Gangguan perhatian dan hiperaktivitas yang dapat membuat anak kesulitan berkonsentrasi, mengendalikan perilaku impulsif, dan tetap tenang.
 6. [**Down Syndrome**](https://birru.co/kasus/down-syndrome/): Gangguan genetik yang dapat mempengaruhi perkembangan fisik dan kognitif anak.
 
-## Kapan Orang Tua Harus Membawa Anak Ke Okupasi Terapi?
+## Kapan orang tua harus membawa anak ke okupasi terapi?
 
 Hubungi okupasi terapis jika anak mengalami :
 
@@ -61,7 +64,7 @@ Hubungi okupasi terapis jika anak mengalami :
 4. Kembali ke perilaku lama setelah belajar yang baru.
 5. Dll.
 
-## Dimana Melakukan Okupasi Terapi?
+## Dimana melakukan okupasi terapi?
 
 Okupasi terapi dapat dilakukan di fasilitas pelayanan kesehatan, baik itu di rumah sakit, klinik tumbuh kembang anak, atau oleh okupasi terapis yang melakukan praktik mandiri.
 

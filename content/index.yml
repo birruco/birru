@@ -1,23 +1,17 @@
 hero: 
-  title: 'Membangkitkan Keajaiban Anak'
-  description: 'Kami membantu orang tua memahami dan mengatasi gangguan bahasa bicara untuk membangkitkan keajaiban dalam diri anak mereka.'
+  title: 'Membangkitkan keajaibak anak'
+  description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.'
   cta:
-    partnership: 'Kerjasama Dengan Kami'
-    reservation: 'Bangkitkan Sekarang!'
-service:
-  headline: 'Layanan'
-  title: 'Masa Emas Anak Tidak Dapat Diulang'
-  description: 'Bersiaplah sejak dini, bangkitkan kejeniusan dan potensi tersembunyi si kecil yang orang tua tidak sadari bersama kami.'
-  items: 
-    - title: 'Terapi Wicara'
-      description: 'Prosedur terapi yang digunakan untuk mengatasi masalah bahasa bicara pada anak-anak. secara spesifik digunakan untuk meningkatkan kemampuan bahasa ekspresif, bahasa reseptif, artikulasi, kelancaran bicara, kemampuan bermain, kemampuan membaca, kemampuan belajar, serta kemampuan makan dan menelan. Dengan metode terapi yang disesuaikan dengan setiap kondisi anak, setelah melewati proses assessment.'
-    - title: 'Okupasi Terapi'
-      description: 'Pelayanan pada anak yang bertujuan untuk menangani masalah keterlambatan dan gangguan perkembangan yaitu dengan memberikan rangkaian jenis terapi kepada anak untuk mengoptimalisasi proses tumbuh kembangnya baik dari segi motorik, sensorik, kognitif, perilaku, dan komunikasi. Sehingga anak mampu secara optimal dalam melakukan perannya pada aktivitas sehari-hari (makan, mandi, berpakaian, dsb), bermain, belajar dan bersosialisasi dengan lingkungannya sesuai usia perkembangannya.'
-  cta: 'Kasus Kami'
+    partnership: 'Kerjasama dengan kami'
+    reservation: 'Mulai sekarang!'
+communication:
+  title: 'Komunikasi lebih dari sekedar kata-kata'
+express:
+  headline: 'Itu bagaimana kita..'
+  title: 'Mengungkapkan apa yang kita percaya, <br> membagikan bagaimana perasaan kita, dan <br> menunjukkan siapa kita kepada dunia'
 program: 
-  headline: 'Program'
-  title: 'Pendekatan Menyeluruh Sesuai Kondisi Anak'
-  description: 'Kami membuat rencana terapi sesuai dengan kondisi setiap anak dan memberikan panduan praktis kepada orang tua untuk mendukung si kecil di rumah.'
+  headline: 'Itulah kenapa'
+  title: 'Kami menggunakan pendekatan <br> menyeluruh yang dirancang sesuai <br> dengan kondisi setiap anak'
   items:
     - title: 'Assessment'
       steps: 
@@ -32,34 +26,41 @@ program:
         - title: '2. Konsultasi hasil terapi.'
         - title: '3. Penyampaian home program.'
         - title: '4. Evaluasi target terapi.'
-  gallery:
-    - img: '/images/logo-vertical.webp'
-    - img: '/images/logo-vertical.webp'
-    - img: '/images/logo-vertical.webp'
+research:
+  title: 'Sesi kami dilakukan oleh terapis <br> wicara, didukung oleh orang tua, <br> dan didasarkan pada penelitian'
+  items: 
+    - title: 'American Journal of Speech Language Pathology'
+      description: '“Hasil penelitian menunjukkan bahwa intervensi bahasa yang diterapkan oleh orang tua memiliki dampak positif dan signifikan terhadap keterampilan bahasa reseptif dan ekspresif”'
+      url: 'https://www.researchgate.net/publication/51037307_The_Effectiveness_of_Parent-Implemented_Language_Interventions_A_Meta-Analysis#:~:text=The results indicate that parent,outcome measure and comparison group.'
+    - title: 'American Journal of Speech Language Pathology'
+      description: '“Temuan seperti ini menggarisbawahi pentingnya pelatihan yang komprehensif dan berkelanjutan untuk keberhasilan intervensi yang diberikan oleh orang tua”'
+      url: 'https://pubs.asha.org/doi/full/10.1044/2019_AJSLP-18-0248?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed'
+service:
+  headline: 'Apa yang kami bantu'
+  title: 'Kami di sini untuk membantu semua <br> kebutuhan komunikasi anak karena <br> masa emas mereka tidak dapat diulang'
+  cta: 'Kasus kami'
 talent:
-  headline: 'Bakat'
-  title: 'Kenali Kepribadian dan Bakat Tersembunyi Anak'
-  description: 'Dengan metode biopsikologi (sidik jari), kami dapat mengenali karakteristik setiap anak dan mendampingi orang tua membangkitkan kejeniusan serta potensi tersembunyi si kecil yang disesuaikan dengan bakat alaminya.'
-  cta: 'Kenali Sekarang!'
+  title: 'Penelitian menunjukkan setiap anak <br> spesial dan mereka belajar dengan baik <br> dari orang yang mereka cintai'
+  description: 'Selain memberikan panduan praktis kepada orang tua, kami juga menggunakan hasil tes kepribadian anak untuk mendukung program terapi agar lebih efektif dan progres dapat tercapai lebih cepat.'
+  cta: 'Pelajari sekarang!'
 growth:
-  headline: 'Visi'
-  title: 'Membangun Rumah Di Mana Anak Dapat Menemukan Arti Keluarga'
-  description: 'Dengan mengirim terapis ke daerah yang membutuhkan, kami bertujuan untuk mengoptimalkan tumbuh kembang semua anak di Indonesia sehingga mereka mampu berbahasa bicara dengan baik.'
-  img: '/images/logo-vertical.webp'
+  headline: 'Visi kami adalah'
+  title: 'Membangun rumah dimana anak <br> dapat menemukan arti keluarga <br> melalui komunikasi'
+  description: 'Karenanya perlu untuk mengoptimalkan kemampuan tersebut, agar anak dapat tumbuh dan berkembang serta memberikan manfaat sesuai dengan potensi terbaiknya, selanjutnya keluarga adalah tempat pertama dimana anak dapat mengkomunikasikan isi hati dan pikirannya.'
+  img: '/images/branch.webp'
   data: 
     clinic:
       number: '3'
-      description: 'Klinik'
-    therapist: 
-      number: '8'
-      description: 'Terapis'
+      description: 'Center terapi'
     patient: 
-      number: '500+'
-      description: 'Anak Terbantu'
+      number: '483'
+      description: 'Anak terbantu'
+    meet: 
+      number: '4173'
+      description: 'Total pertemuan'
 testimonial:
-  headline: 'Testimoni'
-  title: 'Pelanggan yang Senang dengan Layanan Kami'
-  description: 'Dengan profesional kami yang terampil, kami memberikan layanan terapi yang dapat dipercaya dan proses yang transparan, sehingga orang tua dapat mengamati terapi secara langsung, menerima laporan kemajuan, dan yakin bahwa layanan kami memenuhi kebutuhan anak secara komprehensif.'
+  headline: 'Apa yang orang tua katakan'
+  title: 'Mereka bahagia karena layanan <br> kami dapat memenuhi kebutuhan <br> anak secara komprehensif'
   youtube: 'https://www.youtube.com/embed/K3qMdcRGAn8'
   items: 
     - author: 'Orang tua pasien'
@@ -68,15 +69,9 @@ testimonial:
       comment: 'Alhamdulillah bunda, … sudah mulai mengikuti dan ada perubahan yang jauh. Mohon selalu bimbingan dan bantuannya ya bunda.'
     - author: 'Orang tua pasien'
       comment: 'Alhamdulillah … sudah bercerita terus, ditanya sudah menjawab, kosakata dan artikulasi sudah cukup membaik setiap harinya. Terimakasih atas bantuan dan kerjasamanya selama ini. Semoga sehat dan sukses selalu. Dan doakan juga … semakin harinya semakin tambah pintar dan sholeh Aamiin.'
-stimulus:
-  headline: 'Stimulus'
-  title: 'Waktunya Menstimulasi Anak'
-  description: 'Dengan menstimulasi anak, orang tua dapat membantu si kecil tumbuh secara sosial, emosional, fisik, dan kognitif.'
-  cta: 'Pelajari Sekarang!'
 faq:
-  headline: 'FAQ'
-  title: 'Frequently Asked Questions'
-  description: 'Pertanyaan yang sering ditanyakan orang tua seputar Rumah Terapi Al-Birru.'
+  headline: 'Apa yang orang tua tanyakan'
+  title: 'Mereka sering bertanya <br> tentang Birru seputar'
   items: 
     - question: 'Bagaimana cara terapi di Al-Birru?'
       answer: 'Pertama orang tua mengisi form daftar dulu, setelah itu konfirmasi ke admin, bahwa sudah mengisi form daftar, kemudian menentukan jadwal assessment atau pemeriksaan awal di hari dan jam yang telah disepakati oleh admin dan orang tua, selanjutnya menentukan jadwal terapi berdasarkan waktu yang telah disepakati bersama.'
@@ -91,9 +86,8 @@ faq:
     - question: 'Metode apa yang diterapkan di Al-Birru?'
       answer: 'Banyak metode yang diterapkan di al birru, beberapa diantaranya adalah, verbal behavior, play therapy, modelling, drill, sensori integrasi, stimulasi multi modal, dan banyak lagi, semua metode disesuaikan dengan kondisi dan kepribadian anak.'
 partnership:
-  headline: 'Kerjasama'
-  title: 'Mari Membentuk Masa Depan Bersama!'
-  description: 'Bergabunglah bersama kami dalam menciptakan dampak jangka panjang bagi generasi mendatang melalui peluang kemitraan.'
+  headline: 'Mari membentuk masa depan bersama!'
+  title: 'Bergabunglah bersama kami dalam <br> menciptakan dampak jangka panjang bagi <br> generasi mendatang melalui kemitraan'
   cta:
-    download: 'Download Proposal'
-    join: 'Bergabung Sekarang!'
+    download: 'Download proposal'
+    join: 'Bergabung sekarang!'

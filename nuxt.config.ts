@@ -1,3 +1,5 @@
+import dayjs from 'dayjs'
+
 export default defineNuxtConfig({
   nitro: {
     preset: 'static',
@@ -5,13 +7,6 @@ export default defineNuxtConfig({
       crawlLinks: true,
       routes: ['/sitemap.xml', '/robots.txt']
     }
-  },
-  site: {
-    name: 'Birru - Terapi Wicara dan Tumbuh Kembang Anak',
-    url: 'https://birru.co',
-    description: 'Kami membantu orang tua memahami dan mengatasi gangguan bahasa bicara untuk membangkitkan keajaiban dalam diri anak mereka.',
-    defaultLocale: 'id',
-    trailingSlash: true,
   },
   modules: [
     '@nuxtjs/fontaine',
@@ -22,6 +17,20 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@element-plus/nuxt',
   ],
+  devtools: { enabled: true },
+  app: {
+    head: {
+      charset: 'utf-8',
+      viewport: 'width=1366, initial-scale=1',
+    }
+  },
+  site: {
+    name: 'Birru - Terapi Wicara dan Tumbuh Kembang Anak',
+    url: 'https://birru.co',
+    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.',
+    defaultLocale: 'id',
+    trailingSlash: true,
+  },
   googleFonts: {
     download: false,
     display: 'swap',
@@ -31,14 +40,12 @@ export default defineNuxtConfig({
   },
   sitemap: {
     experimentalCompression: true,
-  },
-  ogImage: {
-    fonts: [
-      {
-        name: 'Birru Sans',
-        weight: 700,
-        path: '/fonts/birruSans-Bold.woff',
-      },
+    defaults: {
+      lastmod: dayjs().format('YYYY-MM-DDThh:mm:ssZ')
+    },
+    exclude: [
+      '/_nuxt/**',
+      '/_ipx/**',
     ],
   },
   content: {
@@ -54,5 +61,4 @@ export default defineNuxtConfig({
           : false, 
     },
   },
-  devtools: { enabled: true },
 })

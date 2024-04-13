@@ -9,6 +9,13 @@
       sameAs: ['https://www.linkedin.com/company/birruco']
     })
   ])
+
+  defineOgImageComponent('NuxtSeo', {
+    title: 'Birru',
+    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.',
+    siteName: 'birru.co',
+    theme: '#49A6CB',
+  })
 </script>
 
 <template>
@@ -21,17 +28,14 @@
         {{ page?.hero.description }}
       </h2>
       <div>
-        <el-button 
-          size="large"
-          class="mr-3"
-        >
-          {{ page?.hero.cta.partnership }}
-        </el-button>
+
+        <a href="https://wa.me/6282281035944" target="_blank" rel="noopener noreferrer">
+          <el-button size="large" class="mr-3">
+            {{ page?.hero.cta.partnership }}
+          </el-button>
+        </a>
         <NuxtLink to="/cabang/">
-          <el-button 
-            size="large" 
-            type="primary"
-          >
+          <el-button size="large" type="primary">
             {{ page?.hero.cta.reservation }}
           </el-button>
         </NuxtLink>
@@ -39,26 +43,65 @@
     </section>
     <el-divider />
     <section class="text-center">
-      <div class=" text-base mb-6 font-nunito">
-        {{ page?.service.headline }}
-      </div>
       <h2 class=" text-5xl font-birru">
-        {{ page?.service.title }}
+        {{ page?.communication?.title }}
       </h2>
-      <h3 class="text-lg font-nunito my-6">
-        {{ page?.service.description }}
-      </h3>
+    </section>
+    <el-divider />
+    <section class="text-center">
+      <div class=" text-base mb-6 font-nunito">
+        {{ page?.express.headline }}
+      </div>
+      <h2 class=" text-5xl font-birru" v-html="page?.express?.title" />
+    </section>
+    <el-divider />
+    <section class="text-center">
+      <div class=" text-base mb-6 font-nunito">
+        {{ page?.program.headline }}
+      </div>
+      <h2 class=" text-5xl font-birru mb-6" v-html="page?.program.title">
+      </h2>
 
       <div class="grid grid-cols-2 gap-4 mb-6">
-        <div v-for="item in page?.service.items">
+        <div v-for="item in page?.program.items">
           <div>
             {{ item.title }}
           </div>
-          <div>
-            {{ item.description }}
-          </div>
+          <ol>
+            <li v-for="step in item.steps">
+              {{ step.title }}
+            </li>
+          </ol>
         </div>
       </div>
+    </section>
+    <el-divider />
+    <section class="text-center">
+      <h2 class=" text-5xl font-birru mb-6" v-html="page?.research.title">
+      </h2>
+
+      <div class="grid grid-cols-2 gap-4 mb-6">
+        <div v-for="item in page?.research.items">
+          <div>
+            {{ item.title }}
+          </div>
+          <div class="font-bold mb-6">
+            {{ item.description }}
+          </div>
+          <a :href="item.url" target="_blank" rel="noopener noreferrer">
+            <el-button size="large" type="primary">
+              Jurnal
+            </el-button>
+          </a>
+        </div>
+      </div>
+    </section>
+    <el-divider />
+    <section class="text-center">
+      <div class=" text-base font-nunito">
+        {{ page?.service.headline }}
+      </div>
+      <h2 class=" text-5xl font-birru my-6" v-html="page?.service.title" />
 
       <NuxtLink to="/kasus/">
         <el-button size="large" type="primary">
@@ -68,50 +111,7 @@
     </section>
     <el-divider />
     <section class="text-center">
-      <div class=" text-base  mb-6 font-nunito">
-        {{ page?.program.headline }}
-      </div>
-      <h2 class=" text-5xl font-birru">
-        {{ page?.program.title }}
-      </h2>
-      <h3 class="text-lg font-nunito my-6">
-        {{ page?.program.description }}
-      </h3>
-
-      <div 
-        v-for="item in page?.program.items"
-        class="mb-6"
-      >
-        <div>
-          {{ item.title }}
-        </div>
-        <ol>
-          <li v-for="step in item.steps">
-            {{ step.title }}
-          </li>
-        </ol>
-      </div>
-
-      <div class="columns-3">
-        <div v-for="photo in page?.program.gallery">
-          <NuxtPicture 
-            format="webp" 
-            :src="photo.img"
-            :imgAttrs="{
-              alt: page?.program.title
-            }"
-          />
-        </div>
-      </div>
-    </section>
-    <el-divider />
-    <section class="text-center">
-      <div class=" text-base  mb-6 font-nunito">
-        {{ page?.talent.headline }}
-      </div>
-      <h2 class=" text-5xl font-birru">
-        {{ page?.talent.title }}
-      </h2>
+      <h2 class=" text-5xl font-birru" v-html="page?.talent.title" />
       <h3 class="text-lg font-nunito my-6">
         {{ page?.talent.description }}
       </h3>
@@ -127,21 +127,15 @@
       <div class=" text-base  mb-6 font-nunito">
         {{ page?.growth.headline }}
       </div>
-      <h2 class=" text-5xl font-birru">
-        {{ page?.growth.title }}
-      </h2>
+      <h2 class=" text-5xl font-birru" v-html="page?.growth.title" />
       <h3 class="text-lg font-nunito my-6">
         {{ page?.growth.description }}
       </h3>
-      
-      <NuxtPicture 
-        format="webp" 
-        :src="page?.growth.img"
-        :imgAttrs="{ 
+
+      <NuxtPicture format="webp" :src="page?.growth.img" :imgAttrs="{ 
           class: 'mx-auto',
           alt: page?.growth.title
-        }"
-      />
+        }" />
 
       <div class="grid grid-cols-3 mt-6">
         <div>
@@ -152,36 +146,27 @@
         </div>
         <div>
           <div class="text-7xl">
-            {{ page?.growth.data.therapist.number }}
-          </div>
-          {{ page?.growth.data.therapist.description }}
-        </div>
-        <div>
-          <div class="text-7xl">
             {{ page?.growth.data.patient.number }}
           </div>
           {{ page?.growth.data.patient.description }}
+        </div>
+        <div>
+          <div class="text-7xl">
+            {{ page?.growth.data.meet.number }}
+          </div>
+          {{ page?.growth.data.meet.description }}
         </div>
       </div>
     </section>
     <el-divider />
     <section class="text-center">
-      <div class=" text-base  mb-6 font-nunito">
+      <div class=" text-base font-nunito">
         {{ page?.testimonial.headline }}
       </div>
-      <h2 class=" text-5xl font-birru">
-        {{ page?.testimonial.title }}
-      </h2>
-      <h3 class="text-lg font-nunito my-6">
-        {{ page?.testimonial.description }}
-      </h3>
-      <iframe 
-          :src="page?.testimonial.youtube"
-          :title="page?.testimonial.title"
-          class="mx-auto"
-          width="800" 
-          height="400"
-      >
+      <h2 class=" text-5xl font-birru my-6" v-html="page?.testimonial.title" />
+
+      <iframe :src="page?.testimonial.youtube" :title="page?.testimonial.title" class="mx-auto" width="800"
+        height="400">
       </iframe>
       <div class="grid grid-cols-3 gap-4 mt-6">
         <div v-for="item in page?.testimonial.items">
@@ -197,35 +182,9 @@
     <el-divider />
     <section class="text-center">
       <div class=" text-base  mb-6 font-nunito">
-        {{ page?.stimulus.headline }}
-      </div>
-      <h2 class=" text-5xl font-birru">
-        {{ page?.stimulus.title }}
-      </h2>
-      <h3 class="text-lg font-nunito my-6">
-        {{ page?.stimulus.description }}
-      </h3>
-
-      <NuxtLink to="/cabang/">
-        <el-button 
-          size="large" 
-          type="primary"
-        >
-          {{ page?.stimulus.cta }}
-        </el-button>
-      </NuxtLink>
-    </section>
-    <el-divider />
-    <section class="text-center">
-      <div class=" text-base  mb-6 font-nunito">
         {{ page?.faq.headline }}
       </div>
-      <h2 class=" text-5xl font-birru">
-        {{ page?.faq.title }}
-      </h2>
-      <h3 class="text-lg font-nunito my-6">
-        {{ page?.faq.description }}
-      </h3>
+      <h2 class=" text-5xl font-birru" v-html="page?.faq.title" />
 
       <div class="grid grid-row-6 gap-4 mt-6">
         <div v-for="item in page?.faq.items">
@@ -240,23 +199,21 @@
     </section>
     <el-divider />
     <section class="text-center">
-      <div class=" text-base  mb-6 font-nunito">
+      <div class=" text-base font-nunito">
         {{ page?.partnership.headline }}
       </div>
-      <h2 class=" text-5xl font-birru">
-        {{ page?.partnership.title }}
-      </h2>
-      <h3 class="text-lg font-nunito my-6">
-        {{ page?.partnership.description }}
-      </h3>
+      <h2 class=" text-5xl font-birru my-6" v-html="page?.partnership.title" />
 
       <div>
-        <el-button size="large">
+        <el-button size="large" class="mr-3">
           {{ page?.partnership.cta.download }}
         </el-button>
-        <el-button size="large" type="primary">
-          {{ page?.partnership.cta.join }}
-        </el-button>
+
+        <a href="https://wa.me/6282281035944" target="_blank" rel="noopener noreferrer">
+          <el-button size="large" type="primary">
+            {{ page?.partnership.cta.join }}
+          </el-button>
+        </a>
       </div>
     </section>
   </el-main>

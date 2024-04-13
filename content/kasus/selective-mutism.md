@@ -1,8 +1,10 @@
 ---
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Selective Mutism
 
-Gangguan yang terjadi ketika anak tidak bisa berkomunikasi hanya dalam situasi tertentu, namun dalam situasi yang membuatnya nyaman, anak mampu berkomunikasi dengan normal.
+Kesulitan berkomunikasi dalam situasi tertentu, namun dalam situasi yang membuat anak nyaman, mereka mampu berkomunikasi dengan normal.

@@ -1,7 +1,9 @@
 ---
 description: Kepribadian Thinking introvert memiliki kemampuan menalar secara mendalam dalam wujud penguasaan teknologi, mesin, dan mekanika melebihi jenis kepribadian yang lain. Kelebihan ini dapat disepadankan dengan kecerdasan teknik atau disebut TQ (Technical Quotient).
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Thinking Introvert

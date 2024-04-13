@@ -1,7 +1,9 @@
 ---
 description: Kepribadian Thinking ekstrovert memiliki kemampuan menalar secara meluas dalam bentuk pengendalian manajemen dan logika yang lebih efektif melebihi delapan jenis kepribadian yang lain. Kelebihan ini dapat disepadankan dengan kecerdasan logika atau disebut LQ (Logical Quotient).
-sitemap:
-  lastmod: 8 Feb 2024
+ogImage:
+  component: NuxtSeo
+  siteName: birru.co
+  theme: 49A6CB
 ---
 
 # Thinking Extrovert
