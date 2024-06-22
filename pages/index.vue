@@ -3,7 +3,7 @@
 
   useSchemaOrg([
     defineOrganization({
-      name: 'Birru - Terapi Wicara dan Tumbuh Kembang Anak',
+      name: 'Birru - Child\'s Communication Development',
       url: 'https://birru.co',
       logo: '/images/logo.webp',
       sameAs: ['https://www.linkedin.com/company/birruco']
@@ -12,7 +12,7 @@
 
   defineOgImageComponent('NuxtSeo', {
     title: 'Birru',
-    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.',
+    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membantu anak mereka menguasai bahasa pertama.',
     siteName: 'birru.co',
     theme: '#49A6CB',
   })

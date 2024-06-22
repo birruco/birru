@@ -3,7 +3,7 @@
 
   defineOgImageComponent('NuxtSeo', {
     title: 'Bakat',
-    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.',
+    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membantu anak mereka menguasai bahasa pertama.',
     siteName: 'birru.co',
     theme: '#49A6CB',
   })

@@ -3,7 +3,7 @@
 
   defineOgImageComponent('NuxtSeo', {
     title: 'Cabang',
-    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.',
+    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membantu anak mereka menguasai bahasa pertama.',
     siteName: 'birru.co',
     theme: '#49A6CB',
   })
@@ -14,7 +14,7 @@
     <h1>{{ page?.hero.title }}</h1>
     <div>{{ page?.hero.description }}</div>
     
-    <ul class="grid grid-cols-3 grid-flow-col gap-4 mt-6">
+    <ul class="grid grid-rows-2 grid-flow-col gap-4 mt-6">
       <li v-for="branch in page?.branches">
         <div>{{ branch.title }}</div>
         <div>{{ branch.address }}</div>

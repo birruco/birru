@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     }
   },
   site: {
-    name: 'Birru - Terapi Wicara dan Tumbuh Kembang Anak',
+    name: 'Birru - Child\'s Communication Development',
     url: 'https://birru.co',
-    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membangkitkan keajaiban dalam diri anak mereka.',
+    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membantu anak mereka menguasai bahasa pertama.',
     defaultLocale: 'id',
     trailingSlash: true,
   },
