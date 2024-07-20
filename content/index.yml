@@ -19,13 +19,13 @@ program:
         - title: '2. Wawancara dengan orang tua.'
         - title: '3. Mengobservasi anak.'
         - title: '4. Test langsung dengan anak.'
-        - title: '5. Edukasi target terapi dengan orang tua.'
-    - title: 'Terapi'
+        - title: '5. Edukasi target pembelajaran dengan orang tua.'
+    - title: 'Pembelajaran'
       steps:
-        - title: '1. Proses terapi.'
-        - title: '2. Konsultasi hasil terapi.'
+        - title: '1. Proses pembelajaran.'
+        - title: '2. Konsultasi hasil pembelajaran.'
         - title: '3. Penyampaian home program.'
-        - title: '4. Evaluasi target terapi.'
+        - title: '4. Evaluasi target pembelajaran.'
 research:
   title: 'Sesi kami dilakukan oleh terapis <br> wicara, didukung oleh orang tua, <br> dan didasarkan pada penelitian'
   items: 
@@ -51,7 +51,7 @@ growth:
   data: 
     clinic:
       number: '3'
-      description: 'Center terapi'
+      description: 'Learning care'
     patient: 
       number: '483'
       description: 'Anak terbantu'
@@ -73,18 +73,18 @@ faq:
   headline: 'Apa yang orang tua tanyakan'
   title: 'Mereka sering bertanya <br> tentang Birru seputar'
   items: 
-    - question: 'Bagaimana cara terapi di Al-Birru?'
-      answer: 'Pertama orang tua mengisi form daftar dulu, setelah itu konfirmasi ke admin, bahwa sudah mengisi form daftar, kemudian menentukan jadwal assessment atau pemeriksaan awal di hari dan jam yang telah disepakati oleh admin dan orang tua, selanjutnya menentukan jadwal terapi berdasarkan waktu yang telah disepakati bersama.'
-    - question: 'Terapinya berapa kali seminggu?'
-      answer: 'Jumlah pertemuan terapi disesuaikan kondisi anak, anak dengan kondisi ringan jumlah pertemuan minimal adalah seminggu 2 kali, sedangkan untuk anak dengan kondisi berat sekitar 4-5 kali seminggu.'
-    - question: 'Bagaimana jadwal terapi di Al-Birru?'
-      answer: 'Hari terapi disesuaikan dengan kesibukan orang tua, fleksibel dan bisa dirubah jadwal H-1'
-    - question: 'Berapa lama anak harus terapi sampai akhirnya ada progres sesuai yang diharapkan?'
-      answer: 'Berbeda beda tergantung diagnosis yang ada pada anak, untuk anak dengan kondisi terlambat tanpa gangguan tertentu, terapi bisa berlangsung lebih cepat, kurang lebih 3 bulan terapi. untuk anak dengan kondisi berat bisa berlangsung cukup lama. semua relatif tergantung banyak kondisi.'
-    - question: 'Berapa biaya terapi di Al-Birru?'
-      answer: 'Berbeda beda tergantung dimana letak al birru cabang, untuk info lebih lanjut silahkan untuk menghubungi admin melalui whatsapp.'
-    - question: 'Metode apa yang diterapkan di Al-Birru?'
-      answer: 'Banyak metode yang diterapkan di al birru, beberapa diantaranya adalah, verbal behavior, play therapy, modelling, drill, sensori integrasi, stimulasi multi modal, dan banyak lagi, semua metode disesuaikan dengan kondisi dan kepribadian anak.'
+    - question: 'Bagaimana cara belajar di Birru?'
+      answer: 'Pertama orang tua mengisi form daftar dulu, setelah itu konfirmasi ke admin, bahwa sudah mengisi form daftar, kemudian menentukan jadwal assessment atau pemeriksaan awal di hari dan jam yang telah disepakati oleh admin dan orang tua, selanjutnya menentukan jadwal belajar berdasarkan waktu yang telah disepakati bersama.'
+    - question: 'Belajarnya berapa kali seminggu?'
+      answer: 'Jumlah pertemuan belajar disesuaikan kondisi anak, anak dengan kondisi ringan jumlah pertemuan minimal adalah seminggu 2 kali, sedangkan untuk anak dengan kondisi berat sekitar 4-5 kali seminggu.'
+    - question: 'Bagaimana jadwal belajar di Birru?'
+      answer: 'Hari belajar disesuaikan dengan kesibukan orang tua, fleksibel dan bisa dirubah jadwal H-1'
+    - question: 'Berapa lama anak harus belajar sampai akhirnya ada progres sesuai yang diharapkan?'
+      answer: 'Berbeda beda tergantung diagnosis yang ada pada anak, untuk anak dengan kondisi terlambat tanpa gangguan tertentu, belajarnya bisa berlangsung lebih cepat, kurang lebih 3 bulan belajar. untuk anak dengan kondisi berat bisa berlangsung cukup lama. semua relatif tergantung banyak kondisi.'
+    - question: 'Berapa biaya belajar di Birru?'
+      answer: 'Berbeda beda tergantung dimana letak Birru cabang, untuk info lebih lanjut silahkan untuk menghubungi admin melalui whatsapp.'
+    - question: 'Metode apa yang diterapkan di Birru?'
+      answer: 'Banyak metode yang diterapkan di Birru, beberapa diantaranya adalah, verbal behavior, play therapy, modelling, drill, sensori integrasi, stimulasi multi modal, dan banyak lagi, semua metode disesuaikan dengan kondisi dan kepribadian anak.'
 partnership:
   headline: 'Mari membentuk masa depan bersama!'
   title: 'Bergabunglah bersama kami dalam <br> menciptakan dampak jangka panjang bagi <br> generasi mendatang melalui kemitraan'
