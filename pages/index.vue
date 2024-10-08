@@ -21,8 +21,10 @@
 <template>
   <el-main>
     <section class="text-center">
-      <h1 class=" text-7xl font-birru">
-        {{ page?.hero.title }}
+      <h1 
+        class=" text-7xl font-birru"
+        v-html="page?.hero.title"
+      >
       </h1>
       <h2 class="text-lg font-nunito my-6">
         {{ page?.hero.description }}

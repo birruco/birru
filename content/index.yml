@@ -1,5 +1,5 @@
 hero: 
-  title: 'Membangkitkan keajaibak anak'
+  title: 'Building Connections </br> Unlocking Communication'
   description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membantu anak mereka menguasai bahasa pertama.'
   cta:
     partnership: 'Kerjasama dengan kami'
@@ -50,13 +50,13 @@ growth:
   img: '/images/branch.webp'
   data: 
     clinic:
-      number: '3'
+      number: '5'
       description: 'Learning care'
     patient: 
-      number: '483'
+      number: '965+'
       description: 'Anak terbantu'
     meet: 
-      number: '4173'
+      number: '8.773+'
       description: 'Total pertemuan'
 testimonial:
   headline: 'Apa yang orang tua katakan'
