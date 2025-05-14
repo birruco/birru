@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     }
   },
   site: {
-    name: 'Birru - Child\'s Communication Development',
+    name: 'Birru: Home-to-School Speech Therapy',
     url: 'https://birru.co',
-    description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membantu anak mereka menguasai bahasa pertama.',
+    description: 'Kami membantu anak-anak dengan masalah komunikasi dan belajar menguasai bahasa pertama mereka.',
     defaultLocale: 'id',
     trailingSlash: true,
   },
