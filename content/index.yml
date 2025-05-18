@@ -1,6 +1,6 @@
 hero: 
   title: 'Building Connections </br> Unlocking Communication'
-  description: 'Kami membantu orang tua memahami dan mengatasi masalah komunikasi untuk membantu anak mereka menguasai bahasa pertama.'
+  description: 'Kami membantu anak-anak dengan masalah komunikasi dan belajar menguasai bahasa pertama mereka.'
   cta:
     partnership: 'Kerjasama dengan kami'
     reservation: 'Mulai sekarang!'
@@ -53,10 +53,10 @@ growth:
       number: '5'
       description: 'Learning care'
     patient: 
-      number: '965+'
+      number: '1,122+'
       description: 'Anak terbantu'
     meet: 
-      number: '8.773+'
+      number: '11,737+'
       description: 'Total pertemuan'
 testimonial:
   headline: 'Apa yang orang tua katakan'
